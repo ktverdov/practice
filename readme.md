@@ -28,6 +28,7 @@ Cкачивание доступно здесь: https://gitlab.com/kensand/ruse
 
 - bert. Добучается модель Conversational RuBERT, Russian от DeepPavlov http://docs.deeppavlov.ai/en/master/features/models/bert.html ( получившаяся точность ~ 0.87 )
 
+Веса доступны через Releases.
 
 *Возможные улучшения, если бы это был реальный проект:*
 
